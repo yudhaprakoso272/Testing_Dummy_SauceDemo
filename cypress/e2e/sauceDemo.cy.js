@@ -8,6 +8,10 @@ describe('Checkout Product on SauceDemo Website', () => {
     cy.wait(1000);
     saucedemoPage.loginSauceDemo(saucedemoData.loginData);
     cy.wait(1000);
-    
+    saucedemoPage.selectProduct1();
+    saucedemoPage.cartProduct(saucedemoData.inventoryCart);
+    saucedemoPage.checkout(saucedemoData.informationCheckout);
+    saucedemoPage.continue(saucedemoData.inventoryCart);
+    saucedemoPage.finish();
   });
 });

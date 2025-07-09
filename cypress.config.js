@@ -1,14 +1,14 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  // reporter: 'cypress-mochawesome-reporter',
-  // reporterOptions: {
-  //   reportDir: 'cypress/reports',
-  //   overwrite: false,
-  //   html: false,
-  //   json: true
-  // },
-  // video: true,
+  reporter: 'cypress-mochawesome-reporter',
+  reporterOptions: {
+    reportDir: 'cypress/reports',
+    overwrite: false,
+    html: false,
+    json: true
+  },
+  video: true,
   // videosFolder: 'cypress/videos',
   // screenshotsFolder: 'cypress/screenshots',
   e2e: {
@@ -18,13 +18,5 @@ module.exports = defineConfig({
       // implement node event listeners here
       require('cypress-mochawesome-reporter/plugin')(on);
     },
-    reporter: 'cypress-mochawesome-reporter',
-    reporterOptions: {
-      reportDir: 'cypress/reports',
-      overwrite: false,
-      html: false,
-      json: true
-    },
-    video: true,
   },
 });

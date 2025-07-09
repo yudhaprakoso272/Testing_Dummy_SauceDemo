@@ -2,5 +2,15 @@
     "loginData": {
         "username": "standard_user",
         "password": "secret_sauce"
+    },
+
+    "inventoryCart": {
+        "nameProduct1": "Sauce Labs Backpack"
+    },
+
+    "informationCheckout": {
+        "firstName": "anto",
+        "lastName": "pratama",
+        "postalCode": "67188"
     }
 }

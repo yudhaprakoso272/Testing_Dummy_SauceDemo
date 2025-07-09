@@ -2,5 +2,18 @@
     "username": "[data-test='username']",
     "password": "[data-test='password']",
     "loginButton": "[data-test='login-button']",
-    "verifyLogin": "[data-test='title']"
+    "verifyLogin": "[data-test='title']",
+    "fieldProduct": "[data-test='inventory-list']",
+    "nameProduct": "[data-test='inventory-item-name']",
+    "product1": "[data-test='add-to-cart-sauce-labs-backpack']",
+    "cart": "[data-test='shopping-cart-link']",
+    "verifyPage": "[data-test='title']",
+    "inventoryCart": "[data-test='inventory-item']",
+    "checkoutButton": "[data-test='checkout']",
+    "firstname": "[data-test='firstName']",
+    "lastname": "[data-test='lastName']",
+    "postalCode": "[data-test='postalCode']",
+    "continueButton": "[data-test='continue']",
+    "finishButton": "[data-test='finish']",
+    "checkoutComplete": "[data-test='checkout-complete-container']"
 }
