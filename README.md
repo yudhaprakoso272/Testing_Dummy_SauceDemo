@@ -4,7 +4,7 @@
 
 Link Dokumentasi: https://docs.google.com/spreadsheets/d/1lqQlW4fIZvDmfOP5wn0Tz2OyRS1-GXaT7tGwwtToF44/edit?usp=sharing 
 
-📌 Deskripsi Singkat Project
+📌 Deskripsi Singkat : 
 Project ini adalah bagian dari latihan manual testing untuk aplikasi e-commerce dummy SauceDemo, yang digunakan untuk memahami dan mengasah kemampuan dalam menulis test case, melakukan eksekusi testing, serta membuat dokumentasi bug.
 
 🔍 Tujuan Project
