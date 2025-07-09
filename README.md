@@ -43,4 +43,5 @@ Bug yang ditemukan didokumentasikan secara jelas pada kolom "Keterangan", termas
 💡 Tools yang Digunakan
   - Google Sheets → untuk dokumentasi test case
   - GitHub → untuk version control dan publikasi project
+  - Automation → Cypress
   - Browser (Chrome) → untuk eksekusi manual testing
