@@ -1,6 +1,7 @@
 # Testing_Dummy_SauceDemo
 
 🧪 Judul Project: Manual dan Automation Testing - SauceDemo
+
 Link Dokumentasi: https://docs.google.com/spreadsheets/d/1lqQlW4fIZvDmfOP5wn0Tz2OyRS1-GXaT7tGwwtToF44/edit?usp=sharing 
 
 📌 Deskripsi Singkat Project
