@@ -6,6 +6,7 @@
     "fieldProduct": "[data-test='inventory-list']",
     "nameProduct": "[data-test='inventory-item-name']",
     "product1": "[data-test='add-to-cart-sauce-labs-backpack']",
+    "product2": "[data-test='add-to-cart-sauce-labs-bike-light']",
     "cart": "[data-test='shopping-cart-link']",
     "verifyPage": "[data-test='title']",
     "inventoryCart": "[data-test='inventory-item']",
@@ -15,5 +16,10 @@
     "postalCode": "[data-test='postalCode']",
     "continueButton": "[data-test='continue']",
     "finishButton": "[data-test='finish']",
-    "checkoutComplete": "[data-test='checkout-complete-container']"
+    "checkoutComplete": "[data-test='checkout-complete-container']",
+    "errorData": "[data-test='error']",
+    "backHomeButton": "[data-test='back-to-products']",
+    "burgerMenu": "[id='react-burger-menu-btn']",
+    "verifyBM": "[class='bm-menu']",
+    "logoutButton": "[data-test='logout-sidebar-link']"
 }

@@ -5,12 +5,19 @@
     },
 
     "inventoryCart": {
-        "nameProduct1": "Sauce Labs Backpack"
+        "nameProduct1": "Sauce Labs Backpack",
+        "nameProduct2": "Sauce Labs Bike Light"
     },
 
     "informationCheckout": {
         "firstName": "anto",
         "lastName": "pratama",
         "postalCode": "67188"
+    },
+
+    "checkoutInvalid": {
+        "firstName": "12345",
+        "lastName": "67890",
+        "postalCode": "!@#$%"
     }
 }
