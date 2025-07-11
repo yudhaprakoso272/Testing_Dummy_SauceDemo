@@ -19,7 +19,7 @@ Manual testing simulation project using [SauceDemo](https://www.saucedemo.com) t
 ## 📋 Test Documentation
 - 📄 [Test Case Spreadsheet](https://docs.google.com/spreadsheets/d/1lqQlW4fIZvDmfOP5wn0Tz2OyRS1-GXaT7tGwwtToF44/edit?usp=sharing)
 - 🐞 [Bug Reports on GitHub Issues](https://github.com/yudhaprakoso272/Testing_Dummy_SauceDemo/issues)
-- 📝 [Test Summary Report](link-to-pdf-if-you-upload-it)
+- 📝 [Test Summary Report](https://docs.google.com/document/d/1DGYCCg-VFtEtIotoCQ-3k4tsDjNIOUbE8aMd5qZCCMo/edit?usp=sharing)
 
 ## 📈 Test Results
 - Total Test Cases: 30
