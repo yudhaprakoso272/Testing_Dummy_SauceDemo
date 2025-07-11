@@ -1,47 +1,60 @@
 # Testing_Dummy_SauceDemo
 
-🧪 Judul Project: Manual dan Automation Testing - SauceDemo
+# SauceDemo Manual and Automation Testing Project
 
-Link Dokumentasi: https://docs.google.com/spreadsheets/d/1lqQlW4fIZvDmfOP5wn0Tz2OyRS1-GXaT7tGwwtToF44/edit?usp=sharing 
+## 📌 Overview
+Manual testing simulation project using [SauceDemo](https://www.saucedemo.com) to practice end-to-end functional testing workflow.
 
-📌 Deskripsi Singkat : 
-Project ini adalah bagian dari latihan manual testing untuk aplikasi e-commerce dummy SauceDemo, yang digunakan untuk memahami dan mengasah kemampuan dalam menulis test case, melakukan eksekusi testing, serta membuat dokumentasi bug.
+## 🧪 What Was Tested?
+- ✅ Login (valid & invalid scenarios)
+- ✅ Add to Cart
+- ✅ Remove Item from Cart
+- ✅ Checkout Process
 
-🔍 Tujuan Project
-  - Memastikan semua fitur utama dalam web aplikasi SauceDemo berjalan sesuai ekspektasi.
-  - Melatih kemampuan analisis fungsionalitas aplikasi dari sisi pengguna akhir (end-user).
-  - Mendokumentasikan hasil pengujian dalam bentuk test case dan bug report secara rapi dan sistematis.
+## 🛠 Tools Used
+- Google Spreadsheet (Test Cases)
+- GitHub Issues (Bug Tracking)
+- Chrome Browser
 
-✅ Yang Sudah Dikerjakan
-1. Identifikasi Fitur Utama yang Diuji
-  - Login Page
-  - Product Page
-  - Cart Page
-  - Checkout Page (Step One, Step Two, Complete)
-  - Logout Feature
+## 📋 Test Documentation
+- 📄 [Test Case Spreadsheet](https://docs.google.com/spreadsheets/d/1lqQlW4fIZvDmfOP5wn0Tz2OyRS1-GXaT7tGwwtToF44/edit?usp=sharing)
+- 🐞 [Bug Reports on GitHub Issues](https://github.com/yudhaprakoso272/Testing_Dummy_SauceDemo/issues)
+- 📝 [Test Summary Report](link-to-pdf-if-you-upload-it)
 
-3. Pembuatan Test Case Manual
-Dokumentasi test case dibuat dalam format Google Sheets dengan struktur profesional, berisi:
-  - Test Case ID
-  - Test Scenario
-  - Test Steps
-  - Expected Result
-  - Actual Result
-  - Status (Pass/Fail)
-  - Keterangan/Bug
+## 📈 Test Results
+- Total Test Cases: 30
+- Passed: 28
+- Failed: 2
+- Bugs Found: 2
 
-3. Pengujian Manual
-Semua test case dieksekusi secara manual menggunakan browser (Chrome).
-Digunakan pendekatan positive testing dan negative testing.
+## 🤖 Automation Testing
 
-4. Bug Reporting
-Bug yang ditemukan didokumentasikan secara jelas pada kolom "Keterangan", termasuk:
-  - Deskripsi bug
-  - Tahapan untuk mereproduksi bug
-  - Status dan notes
+This project also includes end-to-end automation tests built using **Cypress**.
 
-💡 Tools yang Digunakan
-  - Google Sheets → untuk dokumentasi test case
-  - GitHub → untuk version control dan publikasi project
-  - Automation → Cypress
-  - Browser (Chrome) → untuk eksekusi manual testing
+### ✅ Automated Test Scenarios:
+- Checkout with valid data
+- Checkout with error data
+- Checkout with invalid data
+
+### 🧰 Tools & Techniques Used:
+- Cypress
+- Page Object Model (POM)
+- Custom Commands
+- HTML Report Generator (Mochawesome)
+- GitHub Actions for CI
+- Video recording of test runs
+
+### 📁 Output Files:
+- `/cypress/videos/` – Recorded run session
+- `/cypress/reports/` – HTML test report
+- `/cypress/e2e/` – All automation scripts
+
+🔗 Check full automation source code inside this repo.
+
+## 🙋‍♂️ Author
+Aliffrianto Yudha Prakoso  
+[LinkedIn](https://www.linkedin.com/in/yudha-31j2001)
+
+---
+
+Feel free to explore, fork, or use this repo as a reference for your own testing practice.
