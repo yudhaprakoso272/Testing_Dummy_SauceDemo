@@ -72,6 +72,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal di komp
       - npx cypress open
 
 📁 Struktur Folder Project (Diagram Sederhana)
+
 📦 TESTING_DUMMY_SAUCEDEMO/
 ├── 📁 cypress/
 │   ├── 📁 downloads/
