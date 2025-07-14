@@ -66,7 +66,8 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal di komp
       cd Testing_Dummy_SauceDemo
 
 🧰 2. Install Dependencies
-      Pastikan kamu sudah menginstall Node.js dan npm. Lalu jalankan:
+      
+Pastikan kamu sudah menginstall Node.js dan npm. Lalu jalankan:
       
       npm install
 
