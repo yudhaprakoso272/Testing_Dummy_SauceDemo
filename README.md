@@ -63,45 +63,16 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal di komp
 📦 1. Clone Repository
       - git clone https://github.com/yudhaprakoso272/Testing_Dummy_SauceDemo.git
       - cd Testing_Dummy_SauceDemo
+
 🧰 2. Install Dependencies
       Pastikan kamu sudah menginstall Node.js dan npm. Lalu jalankan:
       - npm install
+
 ▶️ 3. Menjalankan Test Otomatis (Cypress Run Headless)
       - npm run test:html
+
 🧪 4. Menjalankan dengan Cypress UI (Mode Interaktif)
       - npx cypress open
-
-📁 Struktur Folder Project (Diagram Sederhana)
-
-📦 TESTING_DUMMY_SAUCEDEMO/
-├── 📁 cypress/
-│   ├── 📁 downloads/
-│   ├── 📁 e2e/
-│   │   └── sauceDemo.cy.js
-│   ├── 📁 fixtures/
-│   │   └── saucedemoData.json
-│   │   └── example.json
-│   ├── 📁 reports/           
-│   │   └── html               ⟵ Output HTML report (Mochawesome)
-│   ├── 📁 support/
-│   │   ├── 📁 elementPage/
-│   │   │   └── saucedemoPage.json
-│   │   ├── 📁 pageObject/
-│   │   │   └── saucedemoPage.js
-│   │   ├── commands.js
-│   │   └── e2e.js
-│   └── 📁 videos/            ⟵ Auto-recorded test result (video)
-│
-├── 📁 node_modules/
-├── .gitignore
-├── cypress.config.js
-├── merged-report.json         ⟵ Report config
-├── package.json
-├── package-lock.json
-├── README.md
-└── 📁 .github/               ⟵ (Tambahan untuk CI/CD)
-    └── workflows/
-        └── cypress-ci.yml   ⟵ GitHub Actions Workflow
 
 ---
 
