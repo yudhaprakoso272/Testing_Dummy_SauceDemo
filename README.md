@@ -62,21 +62,21 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal di komp
 
 📦 1. Clone Repository
 
-      - git clone https://github.com/yudhaprakoso272/Testing_Dummy_SauceDemo.git
-      - cd Testing_Dummy_SauceDemo
+      git clone https://github.com/yudhaprakoso272/Testing_Dummy_SauceDemo.git
+      cd Testing_Dummy_SauceDemo
 
 🧰 2. Install Dependencies
-
       Pastikan kamu sudah menginstall Node.js dan npm. Lalu jalankan:
-      - npm install
+      
+      npm install
 
 ▶️ 3. Menjalankan Test Otomatis (Cypress Run Headless)
 
-      - npm run test:html
+      npm run test:html
 
 🧪 4. Menjalankan dengan Cypress UI (Mode Interaktif)
 
-      - npx cypress open
+      npx cypress open
 
 ---
 
